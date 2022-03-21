@@ -1,7 +1,14 @@
 div {
     background-color: red;
-    color: white;
-    font-size: 32px;
+    color:whitesmoke;
+    font-size: larger;
+    text-align: center;
+    font-weight: bold;
+}
+h1 {
+    background-color:aqua;
+    color:black;
+    font-size: 32px;;
     text-align: center;
     font-weight: bold;
 }
